@@ -1,4 +1,3 @@
-```markdown
 # Cosmic Nightlight
 
 A native Rust applet for the COSMIC desktop environment that provides a graphical slider interface to control screen temperature and reduce blue light.
